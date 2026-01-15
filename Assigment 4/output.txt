@@ -1,2 +1,2 @@
-python
-learning
+Hello, Python!
+Learning file handling in python.
